@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Display a small logo in the sidebar
-st.sidebar.image("images\OIG.png", caption="Secret Text Encryptor Logo", width=200)
+st.sidebar.image("images/OIG.png", caption="Secret Text Encryptor Logo", width=200)
 
 # Display a note in the sidebar
 st.sidebar.markdown("""
